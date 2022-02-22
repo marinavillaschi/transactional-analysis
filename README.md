@@ -30,21 +30,22 @@ For this project, the main goal is to do an exploratory data analysis on some tr
 The analysis here was divided into 3 notebooks with their respective questions and demonstration of the analysis that led to the answer.
 They are divided this way for easier readability:
 
-transactions_Q1.ipynb
-transactions_Q2.ipynb
-transactions_Q3.ipynb
+[transactions_Q1.ipynb](https://github.com/marinavillaschi/transactional-analysis/blob/main/transactions_Q1.ipynb)
 
-There's also a csv file with the dataset used on the notebooks.
+[transactions_Q2.ipynb](https://github.com/marinavillaschi/transactional-analysis/blob/main/transactions_Q2.ipynb)
+
+[transactions_Q3.ipynb](https://github.com/marinavillaschi/transactional-analysis/blob/main/transactions_Q3.ipynb)
+
+There's also the [dataset](https://github.com/marinavillaschi/transactional-analysis/blob/main/transactions_dataset.csv) csv file with the data used on the notebooks.
 
 
 
 ## Results<a name="results"></a>
 
 Each notebook brings the answers to the proposed questions.
-A blog post format of the finding is available [here] 
 
-The main findings of the code can be found at the post available [here](https://www.linkedin.com/in/marinavillaschi/).
+A blog post of the finding is available [here](https://pandascouple.medium.com/how-can-business-better-understand-its-users-b2eaf396f567).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-The data was customized for this project.
+The data was made for this project. It's a simulation dataset.
